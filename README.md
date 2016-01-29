@@ -1,1 +1,1 @@
-# Uncage-Analysis
+Analysis macro written for Igor Pro (Wavemetrics)
